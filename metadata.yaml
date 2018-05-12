@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31935
     wikipedia: http://en.wikipedia.org/wiki/Willemsfonds
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26349#Vlaamsch-Belgie-sedert-1830Eerste-Deel
 gutenberg_issued: '2008-08-18'
 gutenberg_type: Text
 identifiers:
