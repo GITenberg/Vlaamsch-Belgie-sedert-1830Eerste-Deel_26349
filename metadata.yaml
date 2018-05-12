@@ -1,0 +1,37 @@
+_repo: Vlaamsch-Belgie-sedert-1830Eerste-Deel_26349
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Frédéricq, Paul
+    alias: Fredericq, Paul
+    birthdate: 1850
+    deathdate: 1920
+    gutenberg_agent_id: '31944'
+    url: http://www.gutenberg.org/2009/agents/31944
+    wikipedia: http://nl.wikipedia.org/wiki/Paul_Fredericq
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Willemsfonds
+    gutenberg_agent_id: '31935'
+    url: http://www.gutenberg.org/2009/agents/31935
+    wikipedia: http://en.wikipedia.org/wiki/Willemsfonds
+description: ''
+gutenberg_issued: '2008-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26349'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flanders (Belgium : Province) -- Description and travel'
+- !lcsh 'Flanders (Belgium : Province) -- History'
+- !lcc 'DH'
+title: 'Vlaamsch Belgie sedert 1830
+
+  Eerste Deel'
+url: http://www.gutenberg.org/ebooks/26349
